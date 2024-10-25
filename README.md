@@ -31,8 +31,8 @@ Atualmente, trabalho como **Desenvolvedor de Software** no ITEC, onde colaboro c
 </br>
 
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=caiobrito-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobrito-dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=caiobrito-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"></img>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobrito-dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"></img>
 </div>
 
 ## Entre em contato 📞
