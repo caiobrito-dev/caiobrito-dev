@@ -37,7 +37,7 @@ Atualmente, trabalho como **Desenvolvedor de Software** no ITEC, onde colaboro c
 
 ## Entre em contato 📞
 <div style="display: inline_block">
-  <img height="50px" src="https://github.com/user-attachments/assets/28148011-7261-4abd-b383-9b5d712d72e3"></img>
-  <img height="50px" style="margin-left: 10px" src="https://github.com/user-attachments/assets/c99f8988-06c9-423f-9e48-cb2762a53359"></img>
+  <a href="https://www.instagram.com/caio_b2005/"><img height="50px" src="https://github.com/user-attachments/assets/28148011-7261-4abd-b383-9b5d712d72e3"></img></a>
+  <a href="https://www.linkedin.com/in/caio-barcelos-de-brito-3150732a4/"><img height="50px" style="margin-left: 10px" src="https://github.com/user-attachments/assets/c99f8988-06c9-423f-9e48-cb2762a53359"></img></a>
 </div>
 
