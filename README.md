@@ -3,7 +3,7 @@
 Atualmente, trabalho como **Desenvolvedor de Software** no ITEC, onde colaboro com projetos focados em inovação e tecnologia.
 <ul>
   <li>
-  💻 Trabalhando Como desenvolvedor de Software no <a href="https://itecfurg.org/" target="_blank">ITEC</a>
+  💻 Trabalhando como desenvolvedor de Software no <a href="https://itecfurg.org/" target="_blank">ITEC</a>
   </li>
   <li>
   🎓 Cursando Sistemas de Informação na <a href="https://www.furg.br/" target="_blank">FURG</a>
