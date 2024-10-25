@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou o Caio B. de Brito 👋
 
-<!--
-**caiobrito-dev/caiobrito-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, trabalho como **Desenvolvedor de Software** no ITEC, onde colaboro com projetos focados em inovação e tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Linguagens:** Python, JavaScript, C#
+- **Frameworks e Bibliotecas:** ReactJS, Node.js, Flutter
+- **Banco de Dados:** MySQL
+- **Ferramentas e Outros:** Git, Inglês fluente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em Contato
+- [LinkedIn](https://www.linkedin.com/in/caio-barcelos-de-brito-3150732a4/)
+- [Instagram](https://www.instagram.com/caio_b2005/)
