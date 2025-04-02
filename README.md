@@ -25,7 +25,7 @@ Atualmente, trabalho como **Desenvolvedor de Software** no ITEC, onde colaboro c
   <img height="40px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
   <img height="40px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
   <img height="40px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
-  <img height="40px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <img height="40px" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"></img>
 </div>
 
 </br>
